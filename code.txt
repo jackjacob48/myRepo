@@ -1,0 +1,8 @@
+#include <stdio.h>
+void main()
+{
+printf ("I am working with GIT");
+printf ("awesome");
+printf ("hello world");
+printf ("welcome");
+}
